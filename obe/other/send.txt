@@ -15,7 +15,7 @@ To "send" is to cause someone or something to go somewhere. To "send out" someon
 
 ===== Bible References: =====
 
-{{topic>:en:bible?send&nocomments}}~~DISCUSSION~~
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* send(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 

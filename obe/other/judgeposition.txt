@@ -12,7 +12,7 @@ A judge is a person who decides what is right or wrong when there are disputes b
 
 ===== Bible References: =====
 
-{{topic>:en:bible?judgeposition&nocomments}}
+{{door43pages @:en:bible:notes -r -q="\{\{tag>[^}]* judgeposition(( )|(\}))" -exclude:home -simpleLineBreak -title -fontsize="100%"}}
 
 ~~DISCUSSION~~
 {{tag>publish}}
